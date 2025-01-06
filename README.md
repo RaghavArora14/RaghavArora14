@@ -37,5 +37,12 @@
 ### [🔗 SmartBin: ML Based Waste Classifier](https://github.com/projects506/SmartBin-ML-Based-Waste-Classifier)
 - Real-time waste classification system deployed on edge devices.
 - 🚀 **Highlights**: 96.13% classification accuracy with AWS EC2 and Flask.
+## 📊 GitHub Activity
+<!-- Dynamic widgets -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaghavArora14&theme=radical)
+
+##  Let's Collaborate!
+Looking to contribute to exciting Machine Learning and AI projects.  
+💬 Reach out to me via [Email](mailto:rkinger2004@gmail.com) or [LinkedIn](https://www.linkedin.com/in/raghavarora14/).
 
 

@@ -15,7 +15,7 @@
 - **Languages**: Python, C++, SQL  
 - **Technologies**: TensorFlow, PyTorch, Flask, AWS, Streamlit  
 - **Concepts**: Machine Learning, NLP, Computer Vision, DSA, OOPs  
-- **Tools**: Git, GitHub, MySQL,
+- **Tools**: Git, GitHub, MySQL,Visual Studio Code
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

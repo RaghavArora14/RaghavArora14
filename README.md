@@ -24,3 +24,18 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
+## 🔥 Featured Projects
+
+### [🔗 QWEN2 based Contextual Vision and Language ChatBot](https://github.com/RaghavArora14/Conversational-Image-Based-ChatBot-SIH-)
+- A QWEN2VL-based chatbot for Vision and Language Processing.
+- 🚀 **Highlights**: 90% improvement in token length, 50% memory optimization.  
+
+### [🔗 Legal Document Summarizer using Longformer Encoder Decoder (LED)](https://github.com/projects506/Legal-Document-Summarizer-Using-LED)
+- Fine-tuned LED-based summarization model for legal content.
+- 🚀 **Highlights**: Increased input token limit by 700%, delivering clear summaries.
+
+### [🔗 SmartBin: ML Based Waste Classifier](https://github.com/projects506/SmartBin-ML-Based-Waste-Classifier)
+- Real-time waste classification system deployed on edge devices.
+- 🚀 **Highlights**: 96.13% classification accuracy with AWS EC2 and Flask.
+
+
